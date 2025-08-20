@@ -3,7 +3,9 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      <p>roshan</p>
+      <form>
+       <input type='text'/>
+      </form>
     </div>
   )
 }
